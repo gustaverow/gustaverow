@@ -7,7 +7,7 @@ A junior developer in search of knowledge.
 
 - 🎓 I'm currently learning **Lua** and **Javascript**
 
-- 👀 I'm interested in studying GO.
+- 👀 I'm interested in studying **GO**.
 
 <br />
 
