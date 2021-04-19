@@ -1,14 +1,14 @@
 ### Hey! I'm Gustaverow 🥳
 A junior developer in search of knowledge.
 
-About me:
+[![Twitter Follow](https://img.shields.io/twitter/follow/gustaverow?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmgrein&screen_name=gustaverow)
 
-- 👀 I'm currently learning **Lua** and **Javascript**, but I interested to back studying GO.
+- 💻 I’m currently working on FiveM Projects
+
+- 🎓 I'm currently learning **Lua** and **Javascript**
+
+- 👀 I'm interested in studying GO.
 
 <br />
 
-### Languages that i'm working with:
-
-<code><img height="20" src="https://camo.githubusercontent.com/ac23621aa950bb432fda8bf60d9c75a4701dbdea34f6201d809aced5529c75b8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63662f4c75612d4c6f676f2e7376672f3132303070782d4c75612d4c6f676f2e7376672e706e67"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+![Pk's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustaverow&show_icons=true&theme=dark) <br /><br /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustaverow&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
